@@ -1,0 +1,1 @@
+xcopy /s /e .\build\encoreos\projects\m0\sdcard E:\

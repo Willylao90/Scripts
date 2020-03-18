@@ -1,0 +1,1 @@
+python waf clean && python waf configure --product=%1 --environment=simulator --build-type=debug build && xcopy /s /e .\encoreos\products\%1\assets\sdcard\* .\build\encoreos\projects\simulator\

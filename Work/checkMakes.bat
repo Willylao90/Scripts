@@ -1,0 +1,13 @@
+call make ariane 1 && ^
+call make bwtr 1 && ^
+call make bwtx 1 && ^
+call make dspmpx 1 && ^
+call make dspxminiam 1 && ^
+call make dspxminifm 1 && ^
+call make dspxtraam 1 && ^
+call make dspxtrafm 1 && ^
+call make galx 1 && ^
+call make galxr 1 && ^
+call make modmon 1 && ^
+call make rbrx 1 && ^
+echo Script complete with no errors
